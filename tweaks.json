@@ -1,0 +1,24 @@
+{
+  "repoName": "landabug's repo",
+  "author": "landabug",
+
+  "tweaks": [
+
+    {
+      "id": "landabug.PWNmyIPhone",
+
+      "name": "PWN My iPhone",
+
+      "description": "Hmm. What is this?",
+
+      "version": "1.0.0",
+
+      "symbol": "apple.terminal.on.rectangle",
+
+      "author": "landabug",
+
+      "scriptURL": "https://landabug.github.io/landabugs-repo/PWNmyiPhone.js"
+    }
+
+  ]
+}
